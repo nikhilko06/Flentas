@@ -1,0 +1,10 @@
+Enter the number of test cases: 3
+Enter the pattern: hack
+Enter the text string: indianhacks
+YES #output
+Enter the pattern: code
+Enter the text string: eddy
+NO #output
+Enter the pattern: coder
+Enter the text string: iamredoc
+YES #output
